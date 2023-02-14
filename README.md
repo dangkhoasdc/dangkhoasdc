@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on ...
-   * Vector Search: tweak and tune some well-known methods such as PQ, HNSW, Hash.
-   * Augmented Reality: developing SDKs for 3D/2D object detection, hand tracking for mobile devices.
+   * Image Search
+   * Augmented Reality.
 - 🌱 I’m currently learning ...
   * The Art of Computer Programming. 
-  * Computer Graphics.
-  * 3D Vision.
+  * Computer Vision & Graphics.
