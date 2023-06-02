@@ -20,7 +20,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
   * The Art of Computer Programming. 
   * Computer Vision & Graphics.
-
-### Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangkhoasdc&hide=html&exclude_repo=ltdk-blog,dkwk,blog,dangkhoasdc.github.io&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
