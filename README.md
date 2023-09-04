@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on ...
-   * Image Search & Recommenation.
+   * Image Search & Recommender System.
    * Augmented Reality.
 - 🌱 I’m currently learning ...
   * The Art of Computer Programming. 
