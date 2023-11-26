@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on ...
-   * Image Search & Recommender System.
-   * Augmented Reality.
-- 🌱 I’m currently learning ...
+   * Recommender System.
+   * Image Understanding (Detection, Tagging, Search).
+- 🌱 I’m currently  ...
+  * Doing [my master's](https://www.comp.nus.edu.sg/programmes/pg/mai/) at NUS.
   * The Art of Computer Programming. 
   * Computer Vision & Graphics.
