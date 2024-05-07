@@ -18,6 +18,6 @@ Here are some ideas to get you started:
    * Recommender System.
    * Image Understanding (Detection, Tagging, Search).
 - 🌱 I’m currently studying  ...
-  * Doing [my master's](https://www.comp.nus.edu.sg/programmes/pg/mai/) at NUS.
+  * Doing [my master](https://www.comp.nus.edu.sg/programmes/pg/mai/) at NUS.
   * The Art of Computer Programming. 
   * Computer Vision & Graphics.
