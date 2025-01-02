@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on ...
+   * Product Search.
    * Recommender System.
-   * Image Understanding (Detection, Tagging, Search).
-- 🌱 I’m currently studying  ...
+- 🌱 I’m   ...
   * Doing [my master](https://www.comp.nus.edu.sg/programmes/pg/mai/) at NUS.
-  * The Art of Computer Programming. 
-  * Computer Vision & Graphics.
+ 
+- [⚡ More details ⚡](https://ltdk.me)
