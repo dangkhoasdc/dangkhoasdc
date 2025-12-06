@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
    * Product Search.
-   * Recommender System.
-- 🌱 I’m   ...
-  * Doing [my master](https://www.comp.nus.edu.sg/programmes/pg/mai/) at NUS.
+   * Recommendation Systems.
  
 - [⚡ More details ⚡](https://ltdk.me)
